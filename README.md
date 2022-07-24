@@ -1,12 +1,9 @@
-# Build-your-own-Alexa-using-python
+# Build JARVIS(Just A Rather Very Intelligent Machine) using Python
 Creating a virtual assistant using python.....
-# Installation
-# For Windows Users
-(run those in command prompt/cmt/terminal) For the robot to listen to our voice/speech pip install speechRecognition
- * To speak out, or text to speech pip install pyttsx3
- * For advance control on browser pip install pywhatkit
- * To get wikipedia data pip install wikipedia
- * To get funny jokes pip install pyjokes
- # For Linux Users
- Learn all the above commands on terminal. Make sure to use pip3, because in linux pip refers for python2 and pip3 refers to python3. Install these too - pip3 install    pyAudio
-In case any error pops up install this - pip3 install portAudio
+# Why use Python to build Jarvis?
+   As we know Python is a suitable language for scriptwriters and developers. Let’s write a script for Voice Assistant using Python. The query for the assistant can be  manipulated as per the user’s need. 
+Speech recognition is the process of converting audio into text. This is commonly used in voice assistants like Alexa, Siri, etc. Python provides an API called SpeechRecognition to allow us to convert audio into text for further processing. In this article, we will look at converting large or long audio files into text using the SpeechRecognition API in python.
+# What is Jarvis AI?
+Jarvis AI is a Python Module which is able to perform task like Chatbot, Assistant etc. It provides base functionality for any assistant application. This JarvisAI is built using Tensorflow, Pytorch, Transformers and other opensource libraries and frameworks. Well, you can contribute on this project to make it more powerful.
+# How Jarvis name originated?
+Just A Rather Very Intelligent System (J.A.R.V.I.S.) was originally Tony Stark's natural-language user interface computer system, named after Edwin Jarvis, in honor of the butler who worked for Howard Stark and the Stark household.
